@@ -1,0 +1,45 @@
+
+/* Class = "NSWindow"; title = "Clip Inspector"; ObjectID = "3"; */
+"3.title" = "Clip Inspector";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the relative speed of the clip."; ObjectID = "6"; */
+"6.ibShadowedToolTip" = "Adjusts the relative speed of the clip.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Adjusts the relative speed of the clip."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "Adjusts the relative speed of the clip.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "9"; */
+"9.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "9"; */
+"9.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "10"; */
+"10.title" = "Speed:";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "14"; */
+"14.title" = "Duration:";
+
+/* Class = "NSTextFieldCell"; title = "Source Duration:"; ObjectID = "16"; */
+"16.title" = "Source Duration:";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "18"; */
+"18.title" = "<do not localize>";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The current duration of the clip in the timeline."; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "The current duration of the clip in the timeline.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Locking a clip prevents it from being moved or deleted in the timeline."; ObjectID = "64"; */
+"64.ibShadowedToolTip" = "Locking a clip prevents it from being moved or deleted in the timeline.";
+
+/* Class = "NSButtonCell"; title = "Locked"; ObjectID = "65"; */
+"65.title" = "Locked";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Not Applicable"; ObjectID = "69"; */
+"69.ibShadowedIsNilPlaceholder" = "Not Applicable";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Locking a clip prevents it from being moved or deleted in the timeline."; ObjectID = "EYG-cn-R2P"; */
+"EYG-cn-R2P.ibShadowedToolTip" = "Locking a clip prevents it from being moved or deleted in the timeline.";
+
+/* Class = "NSButtonCell"; title = "Play clip in reverse"; ObjectID = "lof-u5-6JS"; */
+"lof-u5-6JS.title" = "Play clip in reverse";

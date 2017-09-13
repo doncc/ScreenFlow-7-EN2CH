@@ -1,0 +1,45 @@
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "1"; */
+"1.title" = "Preferences";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "11"; */
+"11.label" = "General";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "11"; */
+"11.paletteLabel" = "General";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "12"; */
+"12.label" = "Advanced";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "12"; */
+"12.paletteLabel" = "Advanced";
+
+/* Class = "NSToolbarItem"; label = "Licenses"; ObjectID = "160"; */
+"160.label" = "Licenses";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Licenses"; ObjectID = "160"; */
+"160.paletteLabel" = "Licenses";
+
+/* Class = "NSButtonCell"; title = "Deactivate Serial Number"; ObjectID = "173"; */
+"173.title" = "Deactivate Serial Number";
+
+/* Class = "NSTextFieldCell"; title = "ScreenFlow"; ObjectID = "185"; */
+"185.title" = "ScreenFlow";
+
+/* Class = "NSTextFieldCell"; title = "---"; ObjectID = "186"; */
+"186.title" = "---";
+
+/* Class = "NSTextFieldCell"; title = "Serial Number:"; ObjectID = "188"; */
+"188.title" = "Serial Number:";
+
+/* Class = "NSToolbarItem"; label = "Timeline"; ObjectID = "277"; */
+"277.label" = "Timeline";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Timeline"; ObjectID = "277"; */
+"277.paletteLabel" = "Timeline";
+
+/* Class = "NSToolbarItem"; label = "Shortcuts"; ObjectID = "gu2-sZ-8oW"; */
+"gu2-sZ-8oW.label" = "Shortcuts";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Shortcuts"; ObjectID = "gu2-sZ-8oW"; */
+"gu2-sZ-8oW.paletteLabel" = "Shortcuts";

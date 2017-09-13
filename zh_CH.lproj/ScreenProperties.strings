@@ -1,0 +1,207 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Whether a sound is played when a click is detected in the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "Whether a sound is played when a click is detected in the Screen Recording.  Only works on Screen Recording clips.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips."; ObjectID = "4"; */
+"4.ibShadowedToolTip" = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips."; ObjectID = "5"; */
+"5.ibShadowedToolTip" = "How much to zoom the Mouse Pointer if it is visible.  Only works on Screen Recording clips.";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The effect to use on the Desktop when the mouse is clicked.  Only works on Screen Recording clips."; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "The effect to use on the Desktop when the mouse is clicked.  Only works on Screen Recording clips.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "12"; */
+"12.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "13"; */
+"13.title" = "None";
+
+/* Class = "NSTextFieldCell"; title = "Click Effect:"; ObjectID = "14"; */
+"14.title" = "Click Effect:";
+
+/* Class = "NSTextFieldCell"; title = "Pointer Zoom:"; ObjectID = "15"; */
+"15.title" = "Pointer Zoom:";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "16"; */
+"16.title" = "100";
+
+/* Class = "NSButtonCell"; title = "Sound on Click"; ObjectID = "18"; */
+"18.title" = "Sound on Click";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard:"; ObjectID = "40"; */
+"40.title" = "Keyboard:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows the Mouse Pointer for the selected Screen Recording, if checked.  Otherwise, Mouse Pointer is hidden.  Only works on Screen Recording clips."; ObjectID = "54"; */
+"54.ibShadowedToolTip" = "Shows the Mouse Pointer for the selected Screen Recording, if checked.  Otherwise, Mouse Pointer is hidden.  Only works on Screen Recording clips.";
+
+/* Class = "NSButtonCell"; title = "Show Mouse Pointer"; ObjectID = "55"; */
+"55.title" = "Show Mouse Pointer";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "57"; */
+"57.ibShadowedToolTip" = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips.";
+
+/* Class = "NSButtonCell"; title = "Show Keystrokes"; ObjectID = "58"; */
+"58.title" = "Show Keystrokes";
+
+/* Class = "NSTextFieldCell"; title = "Pointer:"; ObjectID = "76"; */
+"76.title" = "Pointer:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Controls which mouse pointer will be displayed.  Only works on Screen Recording clips."; ObjectID = "121"; */
+"121.ibShadowedToolTip" = "Controls which mouse pointer will be displayed.  Only works on Screen Recording clips.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "123"; */
+"123.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Choose Image..."; ObjectID = "125"; */
+"125.title" = "Choose Image...";
+
+/* Class = "NSMenuItem"; title = "<DONT LOCALIZE>"; ObjectID = "126"; */
+"126.title" = "<DONT LOCALIZE>";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "160"; */
+"160.ibShadowedToolTip" = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "161"; */
+"161.ibShadowedToolTip" = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips.";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "163"; */
+"163.title" = "Opacity:";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "164"; */
+"164.title" = "100";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the volume of the click audio effect."; ObjectID = "201"; */
+"201.ibShadowedToolTip" = "Adjusts the volume of the click audio effect.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "203"; */
+"203.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the volume of the click audio effect."; ObjectID = "203"; */
+"203.ibShadowedToolTip" = "Adjusts the volume of the click audio effect.";
+
+/* Class = "NSTextFieldCell"; title = "100px"; ObjectID = "204"; */
+"204.title" = "100px";
+
+/* Class = "NSTextFieldCell"; title = "Volume:"; ObjectID = "205"; */
+"205.title" = "Volume:";
+
+/* Class = "NSTextFieldCell"; title = "Down Click:"; ObjectID = "229"; */
+"229.title" = "Down Click:";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "234"; */
+"234.title" = "Choose...";
+
+/* Class = "NSTextFieldCell"; title = "Click Sound:"; ObjectID = "235"; */
+"235.title" = "Click Sound:";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "242"; */
+"242.title" = "<do not localize>";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "265"; */
+"265.title" = "<do not localize>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "298"; */
+"298.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "298"; */
+"298.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "309"; */
+"309.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the height of the Keystroke display bar."; ObjectID = "309"; */
+"309.ibShadowedToolTip" = "Adjusts the height of the Keystroke display bar.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the height of the Keystroke display bar."; ObjectID = "310"; */
+"310.ibShadowedToolTip" = "Adjusts the height of the Keystroke display bar.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "312"; */
+"312.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "312"; */
+"312.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Height"; ObjectID = "313"; */
+"313.title" = "Height";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "315"; */
+"315.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjusts the position of the Keystroke display bar."; ObjectID = "315"; */
+"315.ibShadowedToolTip" = "Adjusts the position of the Keystroke display bar.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Adjusts the position of the Keystroke display bar."; ObjectID = "316"; */
+"316.ibShadowedToolTip" = "Adjusts the position of the Keystroke display bar.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "318"; */
+"318.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "318"; */
+"318.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Position"; ObjectID = "320"; */
+"320.title" = "Position";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "324"; */
+"324.title" = "Radio";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Displays all keys pressed."; ObjectID = "325"; */
+"325.ibShadowedToolTip" = "Displays all keys pressed.";
+
+/* Class = "NSButtonCell"; title = "Show all keys"; ObjectID = "325"; */
+"325.title" = "Show all keys";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Only display key presses when a modify key is also held down."; ObjectID = "326"; */
+"326.ibShadowedToolTip" = "Only display key presses when a modify key is also held down.";
+
+/* Class = "NSButtonCell"; title = "Show only modifier keys"; ObjectID = "326"; */
+"326.title" = "Show only modifier keys";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the Keystroke display options window"; ObjectID = "387"; */
+"387.ibShadowedToolTip" = "Open the Keystroke display options window";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "399"; */
+"399.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "399"; */
+"399.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "399"; */
+"399.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "400"; */
+"400.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "400"; */
+"400.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "401"; */
+"401.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "401"; */
+"401.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "3wY-LO-P3j"; */
+"3wY-LO-P3j.ibShadowedToolTip" = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips."; ObjectID = "4DF-IB-Hzg"; */
+"4DF-IB-Hzg.ibShadowedToolTip" = "Shows typing of keys during the Screen Recording.  Only works on Screen Recording clips.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips."; ObjectID = "NFe-Vi-rAo"; */
+"NFe-Vi-rAo.ibShadowedToolTip" = "Controls how visible the mouse pointer will be.  Only works on Screen Recording clips.";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "PjJ-op-cXc"; */
+"PjJ-op-cXc.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "PjJ-op-cXc"; */
+"PjJ-op-cXc.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "NSButtonCell"; title = "Attached To Clip"; ObjectID = "Tcf-Qe-8Za"; */
+"Tcf-Qe-8Za.title" = "Attached To Clip";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "hIi-0h-fN3"; */
+"hIi-0h-fN3.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "u0u-7A-r70"; */
+"u0u-7A-r70.title" = "Width:";

@@ -1,0 +1,225 @@
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The Opacity (see-through) of the background of the Callout.  A Callout must be selected for these properties to be available."; ObjectID = "6"; */
+"6.ibShadowedToolTip" = "The Opacity (see-through) of the background of the Callout.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout opacity"; ObjectID = "7"; */
+"7.ibExternalAccessibilityHelp" = "callout opacity";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The Opacity (see-through) of the background of the Callout. A Callout must be selected for these properties to be available."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "The Opacity (see-through) of the background of the Callout. A Callout must be selected for these properties to be available.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Blurs the background of the screen recording content."; ObjectID = "9"; */
+"9.ibShadowedToolTip" = "Blurs the background of the screen recording content.";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout border"; ObjectID = "10"; */
+"10.ibExternalAccessibilityHelp" = "callout border";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The size of the border around a callout.  A Callout must be selected for these properties to be availablee."; ObjectID = "10"; */
+"10.ibShadowedToolTip" = "The size of the border around a callout.  A Callout must be selected for these properties to be availablee.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The size of the border around a callout.  A Callout must be selected for these properties to be available."; ObjectID = "12"; */
+"12.ibShadowedToolTip" = "The size of the border around a callout.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSMatrix"; ibExternalAccessibilityHelp = "callout highlight"; ObjectID = "16"; */
+"16.ibExternalAccessibilityHelp" = "callout highlight";
+
+/* Class = "NSMatrix"; ibShadowedToolTip = "Which method to use for Highlighting: Mouse, Foreground Window or Freehand. A Callout must be selected for these properties to be available."; ObjectID = "16"; */
+"16.ibShadowedToolTip" = "Which method to use for Highlighting: Mouse, Foreground Window or Freehand. A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "19"; */
+"19.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The width of the Outline around the Callout, in pixels.  A Callout must be selected for these properties to be available."; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "The width of the Outline around the Callout, in pixels.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "The width of the Outline around the Callout, in pixels.  A Callout must be selected for these properties to be available."; ObjectID = "20"; */
+"20.ibShadowedToolTip" = "The width of the Outline around the Callout, in pixels.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSColorWell"; ibExternalAccessibilityHelp = "callout outline color"; ObjectID = "21"; */
+"21.ibExternalAccessibilityHelp" = "callout outline color";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "The color of the outline.  Only valid if the width of the Outline is greater than zero.  A Callout must be selected for these properties to be available."; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "The color of the outline.  Only valid if the width of the Outline is greater than zero.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout zoomup"; ObjectID = "22"; */
+"22.ibExternalAccessibilityHelp" = "callout zoomup";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Sets how much zoom to apply to the callout area.  A Callout must be selected for these properties to be available."; ObjectID = "22"; */
+"22.ibShadowedToolTip" = "Sets how much zoom to apply to the callout area.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much to zoom up the Highlight. A Callout must be selected for these properties to be available."; ObjectID = "24"; */
+"24.ibShadowedToolTip" = "How much to zoom up the Highlight. A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "25"; */
+"25.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "25"; */
+"25.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Zoom Up:"; ObjectID = "27"; */
+"27.title" = "Zoom Up:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "60.0 px"; ObjectID = "30"; */
+"30.placeholderString" = "60.0 px";
+
+/* Class = "NSTextFieldCell"; title = "Outline:"; ObjectID = "32"; */
+"32.title" = "Outline:";
+
+/* Class = "NSTextFieldCell"; title = "Highlight:"; ObjectID = "33"; */
+"33.title" = "Highlight:";
+
+/* Class = "NSButtonCell"; title = "Mouse Cursor"; ObjectID = "34"; */
+"34.title" = "Mouse Cursor";
+
+/* Class = "NSButtonCell"; title = "Foreground Window"; ObjectID = "35"; */
+"35.title" = "Foreground Window";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "36"; */
+"36.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "41"; */
+"41.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "41"; */
+"41.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Border:"; ObjectID = "43"; */
+"43.title" = "Border:";
+
+/* Class = "NSButtonCell"; title = "Blur Background"; ObjectID = "45"; */
+"45.title" = "Blur Background";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "46"; */
+"46.title" = "Opacity:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "48"; */
+"48.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "48"; */
+"48.title" = "100";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "A blurring/feather effect on the edges of the Highlight.  Useful for Mouse Cursor highlights.  A Callout must be selected for these properties to be available."; ObjectID = "76"; */
+"76.ibShadowedToolTip" = "A blurring/feather effect on the edges of the Highlight.  Useful for Mouse Cursor highlights.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "77"; */
+"77.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "A blurring/feather effect on the edges of the Highlight.  Useful for Mouse Cursor highlights.  A Callout must be selected for these properties to be available."; ObjectID = "77"; */
+"77.ibShadowedToolTip" = "A blurring/feather effect on the edges of the Highlight.  Useful for Mouse Cursor highlights.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; title = "Feather"; ObjectID = "79"; */
+"79.title" = "Feather";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "80"; */
+"80.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "80"; */
+"80.title" = "100";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "85"; */
+"85.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Round corners on the highlight.  Useful for Foreground Window highlights.  A Callout must be selected for these properties to be available."; ObjectID = "85"; */
+"85.ibShadowedToolTip" = "Round corners on the highlight.  Useful for Foreground Window highlights.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Round corners on the highlight.  Useful for Foreground Window highlights.  A Callout must be selected for these properties to be available."; ObjectID = "87"; */
+"87.ibShadowedToolTip" = "Round corners on the highlight.  Useful for Foreground Window highlights.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; title = "Round"; ObjectID = "89"; */
+"89.title" = "Round";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "90"; */
+"90.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100px"; ObjectID = "90"; */
+"90.title" = "100px";
+
+/* Class = "NSTextFieldCell"; title = "Build:"; ObjectID = "98"; */
+"98.title" = "Build:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "99"; */
+"99.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How many seconds to transition into the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available."; ObjectID = "99"; */
+"99.ibShadowedToolTip" = "How many seconds to transition into the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "How many seconds to transition out of the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available."; ObjectID = "100"; */
+"100.ibShadowedToolTip" = "How many seconds to transition out of the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "callout outline size"; ObjectID = "101"; */
+"101.ibExternalAccessibilityHelp" = "callout outline size";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How many seconds to transition out of the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available."; ObjectID = "101"; */
+"101.ibShadowedToolTip" = "How many seconds to transition out of the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "How many seconds to transition into the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available."; ObjectID = "102"; */
+"102.ibShadowedToolTip" = "How many seconds to transition into the callout.  The transition occurs inside the action, as shown in the timeline.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "104"; */
+"104.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "1.00s"; ObjectID = "104"; */
+"104.title" = "1.00s";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "107"; */
+"107.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "1.00s"; ObjectID = "107"; */
+"107.title" = "1.00s";
+
+/* Class = "NSTextFieldCell"; title = "In Duration"; ObjectID = "110"; */
+"110.title" = "In Duration";
+
+/* Class = "NSTextFieldCell"; title = "Out Duration"; ObjectID = "112"; */
+"112.title" = "Out Duration";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Sets how much blur to apply to the callout area.  A Callout must be selected for these properties to be available."; ObjectID = "177"; */
+"177.ibShadowedToolTip" = "Sets how much blur to apply to the callout area.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout border"; ObjectID = "179"; */
+"179.ibExternalAccessibilityHelp" = "callout border";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Sets how much blur to apply to the callout area.  A Callout must be selected for these properties to be available."; ObjectID = "179"; */
+"179.ibShadowedToolTip" = "Sets how much blur to apply to the callout area.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; title = "Blur:"; ObjectID = "181"; */
+"181.title" = "Blur:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "182"; */
+"182.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "182"; */
+"182.title" = "100";
+
+/* Class = "NSButtonCell"; title = "Freehand"; ObjectID = "196"; */
+"196.title" = "Freehand";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, adds a drop shadow around the callout."; ObjectID = "199"; */
+"199.ibShadowedToolTip" = "When enabled, adds a drop shadow around the callout.";
+
+/* Class = "NSButtonCell"; title = "Shadow:"; ObjectID = "200"; */
+"200.title" = "Shadow:";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout zoomup"; ObjectID = "201"; */
+"201.ibExternalAccessibilityHelp" = "callout zoomup";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much blur to apply to the shadow.  A Callout must be selected for these properties to be available."; ObjectID = "201"; */
+"201.ibShadowedToolTip" = "How much blur to apply to the shadow.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much blur to apply to the shadow.  A Callout must be selected for these properties to be available."; ObjectID = "204"; */
+"204.ibShadowedToolTip" = "How much blur to apply to the shadow.  A Callout must be selected for these properties to be available.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "205"; */
+"205.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "205"; */
+"205.title" = "100";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "219"; */
+"219.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "220"; */
+"220.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "221"; */
+"221.ibShadowedNoSelectionPlaceholder" = " ";

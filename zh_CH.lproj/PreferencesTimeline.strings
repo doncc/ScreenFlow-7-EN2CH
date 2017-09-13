@@ -1,0 +1,72 @@
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default transition to use when creating new transitions in the timeline."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "The default transition to use when creating new transitions in the timeline.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5"; */
+"5.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Default Transition:"; ObjectID = "9"; */
+"9.title" = "Default Transition:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default height to use for new tracks in the timeline."; ObjectID = "18"; */
+"18.ibShadowedToolTip" = "The default height to use for new tracks in the timeline.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "20"; */
+"20.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "21"; */
+"21.title" = "Small";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "22"; */
+"22.title" = "Regular";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "23"; */
+"23.title" = "Large";
+
+/* Class = "NSTextFieldCell"; title = "Default Track Height:"; ObjectID = "24"; */
+"24.title" = "Default Track Height:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use SMPTE formatted timecode for all places where a time is displayed"; ObjectID = "30"; */
+"30.ibShadowedToolTip" = "Use SMPTE formatted timecode for all places where a time is displayed";
+
+/* Class = "NSTextFieldCell"; title = "Display:"; ObjectID = "32"; */
+"32.title" = "Display:";
+
+/* Class = "NSButtonCell"; title = "Use SMPTE timecode"; ObjectID = "33"; */
+"33.title" = "Use SMPTE timecode";
+
+/* Class = "NSTextFieldCell"; title = "Default Durations:"; ObjectID = "86"; */
+"86.title" = "Default Durations:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "92"; */
+"92.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duration"; ObjectID = "93"; */
+"93.headerCell.title" = "Duration";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "95"; */
+"95.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "96"; */
+"96.title" = "Text";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When checked, the action menu icons will no longer appear when moving the mouse over clips in the timeline."; ObjectID = "172"; */
+"172.ibShadowedToolTip" = "When checked, the action menu icons will no longer appear when moving the mouse over clips in the timeline.";
+
+/* Class = "NSButtonCell"; title = "Hide action menu overlay in clips"; ObjectID = "173"; */
+"173.title" = "Hide action menu overlay in clips";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When checked, clip audio waveform overlays will draw both the left & right stereo channels."; ObjectID = "176"; */
+"176.ibShadowedToolTip" = "When checked, clip audio waveform overlays will draw both the left & right stereo channels.";
+
+/* Class = "NSButtonCell"; title = "Show stereo audio waveforms"; ObjectID = "177"; */
+"177.title" = "Show stereo audio waveforms";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The default curve type for new actions."; ObjectID = "bRW-em-DAg"; */
+"bRW-em-DAg.ibShadowedToolTip" = "The default curve type for new actions.";
+
+/* Class = "NSTextFieldCell"; title = "Default Action Curve:"; ObjectID = "dOY-aV-xGx"; */
+"dOY-aV-xGx.title" = "Default Action Curve:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "zeE-JG-Sj7"; */
+"zeE-JG-Sj7.title" = "OtherViews";

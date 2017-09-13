@@ -1,0 +1,27 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Publish"; ObjectID = "45"; */
+"45.title" = "Publish";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "49"; */
+"49.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "254"; */
+"254.title" = "<do not localize>";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "632"; */
+"632.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "633"; */
+"633.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "634"; */
+"634.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "635"; */
+"635.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "820"; */
+"820.title" = "Sign Out";

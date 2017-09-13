@@ -1,0 +1,66 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5"; */
+"5.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Lucida Grande"; ObjectID = "6"; */
+"6.title" = "Lucida Grande";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "15"; */
+"15.title" = "Font:";
+
+/* Class = "NSTextFieldCell"; title = "Background Color:"; ObjectID = "36"; */
+"36.title" = "Background Color:";
+
+/* Class = "NSTextFieldCell"; title = "Corner Round:"; ObjectID = "44"; */
+"44.title" = "Corner Round:";
+
+/* Class = "NSTextFieldCell"; title = "100.0 p"; ObjectID = "48"; */
+"48.title" = "100.0 p";
+
+/* Class = "NSTextFieldCell"; title = "100.0 p"; ObjectID = "69"; */
+"69.title" = "100.0 p";
+
+/* Class = "NSTextFieldCell"; title = "Outline Stroke:"; ObjectID = "71"; */
+"71.title" = "Outline Stroke:";
+
+/* Class = "NSTextFieldCell"; title = "Outline Color:"; ObjectID = "85"; */
+"85.title" = "Outline Color:";
+
+/* Class = "NSTextFieldCell"; title = "Fade Out"; ObjectID = "91"; */
+"91.title" = "Fade Out";
+
+/* Class = "NSTextFieldCell"; title = "Fade Durations:"; ObjectID = "95"; */
+"95.title" = "Fade Durations:";
+
+/* Class = "NSTextFieldCell"; title = "100.0 px"; ObjectID = "97"; */
+"97.title" = "100.0 px";
+
+/* Class = "NSTextFieldCell"; title = "100.0 px"; ObjectID = "101"; */
+"101.title" = "100.0 px";
+
+/* Class = "NSTextFieldCell"; title = "100.0 px"; ObjectID = "128"; */
+"128.title" = "100.0 px";
+
+/* Class = "NSTextFieldCell"; title = "Keystroke visible for: "; ObjectID = "129"; */
+"129.title" = "Keystroke visible for: ";
+
+/* Class = "NSTextFieldCell"; title = "Fade In"; ObjectID = "134"; */
+"134.title" = "Fade In";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "145"; */
+"145.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "145"; */
+"145.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "148"; */
+"148.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "148"; */
+"148.ibShadowedNotApplicablePlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "151"; */
+"151.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = " "; ObjectID = "151"; */
+"151.ibShadowedNotApplicablePlaceholder" = " ";

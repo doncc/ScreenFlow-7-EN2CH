@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "The new recording will be added to the document selected in the popup.  The new recording is added to the Document Media panel, and you need to then drag it to the timeline."; ObjectID = "20"; */
+"20.ibShadowedToolTip" = "The new recording will be added to the document selected in the popup.  The new recording is added to the Document Media panel, and you need to then drag it to the timeline.";
+
+/* Class = "NSButtonCell"; title = "Add to Document :"; ObjectID = "20"; */
+"20.title" = "Add to Document :";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "A new document will be created with the recording you have just made."; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "A new document will be created with the recording you have just made.";
+
+/* Class = "NSButtonCell"; title = "Create New Document"; ObjectID = "21"; */
+"21.title" = "Create New Document";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "22"; */
+"22.title" = "Radio";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "24"; */
+"24.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "25"; */
+"25.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "26"; */
+"26.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Untitled"; ObjectID = "27"; */
+"27.title" = "Untitled";

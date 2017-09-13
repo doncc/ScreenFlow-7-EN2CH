@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Application Crash Detected"; ObjectID = "4"; */
+"4.title" = "Application Crash Detected";
+
+/* Class = "NSTextFieldCell"; title = "ScreenFlow crashed the last time it was run.  Uploading the crash log will be very useful in diagnosing and correcting the fault.\n\nIf you would like to optionally provide a description of the actions that caused ScreenFlow to crash, please enter this information below.  Please also include your email address if you'd like to be contacted about the problem."; ObjectID = "6"; */
+"6.title" = "ScreenFlow crashed the last time it was run.  Uploading the crash log will be very useful in diagnosing and correcting the fault.\n\nIf you would like to optionally provide a description of the actions that caused ScreenFlow to crash, please enter this information below.  Please also include your email address if you'd like to be contacted about the problem.";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "16"; */
+"16.title" = "Upload";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "18"; */
+"18.title" = "Ignore";
+
+/* Class = "NSTextFieldCell"; title = "Show Crash Log"; ObjectID = "36"; */
+"36.title" = "Show Crash Log";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "44"; */
+"44.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Uploading Report to Server..."; ObjectID = "48"; */
+"48.title" = "Uploading Report to Server...";
+
+/* Class = "NSTextFieldCell"; title = "Uploading..."; ObjectID = "57"; */
+"57.title" = "Uploading...";

@@ -1,0 +1,93 @@
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The thickness of the annotation outline, expressed in pixels."; ObjectID = "701"; */
+"701.ibShadowedToolTip" = "The thickness of the annotation outline, expressed in pixels.";
+
+/* Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "705"; */
+"705.title" = "Thickness:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The thickness of the annotation outline, expressed in pixels."; ObjectID = "706"; */
+"706.ibShadowedToolTip" = "The thickness of the annotation outline, expressed in pixels.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "707"; */
+"707.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "10.0%"; ObjectID = "707"; */
+"707.title" = "10.0%";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the color of the currently selected annotation."; ObjectID = "730"; */
+"730.ibShadowedToolTip" = "Sets the color of the currently selected annotation.";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "732"; */
+"732.title" = "Color:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How much drop shadow to apply to the selected annotation."; ObjectID = "733"; */
+"733.ibShadowedToolTip" = "How much drop shadow to apply to the selected annotation.";
+
+/* Class = "NSSlider"; ibExternalAccessibilityHelp = "callout zoomup"; ObjectID = "734"; */
+"734.ibExternalAccessibilityHelp" = "callout zoomup";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much drop shadow to apply to the selected annotation."; ObjectID = "734"; */
+"734.ibShadowedToolTip" = "How much drop shadow to apply to the selected annotation.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables drop shadow on the selected annotations."; ObjectID = "735"; */
+"735.ibShadowedToolTip" = "Enables drop shadow on the selected annotations.";
+
+/* Class = "NSButtonCell"; title = "Shadow:"; ObjectID = "736"; */
+"736.title" = "Shadow:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "738"; */
+"738.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "738"; */
+"738.title" = "100";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables an outline around the selected annotations."; ObjectID = "804"; */
+"804.ibShadowedToolTip" = "Enables an outline around the selected annotations.";
+
+/* Class = "NSButtonCell"; title = "Outline:"; ObjectID = "805"; */
+"805.title" = "Outline:";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Sets the color of the outline."; ObjectID = "807"; */
+"807.ibShadowedToolTip" = "Sets the color of the outline.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much outline to apply to the selected annotation."; ObjectID = "809"; */
+"809.ibShadowedToolTip" = "How much outline to apply to the selected annotation.";
+
+/* Class = "NSTextFieldCell"; title = "Endpoints:"; ObjectID = "817"; */
+"817.title" = "Endpoints:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The look of the start & end points of line and arrow annotations."; ObjectID = "818"; */
+"818.ibShadowedToolTip" = "The look of the start & end points of line and arrow annotations.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "820"; */
+"820.title" = "OtherViews";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The look of the start & end points of line and arrow annotations."; ObjectID = "824"; */
+"824.ibShadowedToolTip" = "The look of the start & end points of line and arrow annotations.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "826"; */
+"826.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "871"; */
+"871.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "873"; */
+"873.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "A percentage of how much you can \"see through\" the selected annotation(s)."; ObjectID = "874"; */
+"874.ibShadowedToolTip" = "A percentage of how much you can \"see through\" the selected annotation(s).";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "A percentage of how much you can \"see through\" the selected annotation(s)."; ObjectID = "876"; */
+"876.ibShadowedToolTip" = "A percentage of how much you can \"see through\" the selected annotation(s).";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0%;0%;-0%"; ObjectID = "877"; */
+"877.placeholderString" = "0%;0%;-0%";
+
+/* Class = "NSTextFieldCell"; title = "10.0%"; ObjectID = "877"; */
+"877.title" = "10.0%";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "878"; */
+"878.title" = "Opacity:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "886"; */
+"886.ibShadowedNoSelectionPlaceholder" = " ";

@@ -1,0 +1,105 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check to add a captions track from the timeline captions to the finished movie file."; ObjectID = "326"; */
+"326.ibShadowedToolTip" = "Check to add a captions track from the timeline captions to the finished movie file.";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "manage"; ObjectID = "329"; */
+"329.ibExternalAccessibilityHelp" = "manage";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Manage & further customize the list of codec presets."; ObjectID = "329"; */
+"329.ibShadowedToolTip" = "Manage & further customize the list of codec presets.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Optionally adds a chapter (quick navigation) track to the finished movie.  Chapter tracks are only supported for QuickTime exports, and require named markers to be present in the timeline."; ObjectID = "331"; */
+"331.ibShadowedToolTip" = "Optionally adds a chapter (quick navigation) track to the finished movie.  Chapter tracks are only supported for QuickTime exports, and require named markers to be present in the timeline.";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "customize"; ObjectID = "335"; */
+"335.ibExternalAccessibilityHelp" = "customize";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select a codec or change the codec settings."; ObjectID = "335"; */
+"335.ibShadowedToolTip" = "Select a codec or change the codec settings.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, Motion Blur will be used on the output.  This will make the output very high quality when you have used Video Actions to rotate or move clips."; ObjectID = "338"; */
+"338.ibShadowedToolTip" = "If checked, Motion Blur will be used on the output.  This will make the output very high quality when you have used Video Actions to rotate or move clips.";
+
+/* Class = "NSMatrix"; ibExternalAccessibilityHelp = "dimensions"; ObjectID = "341"; */
+"341.ibExternalAccessibilityHelp" = "dimensions";
+
+/* Class = "NSMatrix"; ibShadowedToolTip = "Allows you to scale the resulting movie size.   ScreenFlow uses an extremely high quality scaling algorithm to create the highest quality scaled output."; ObjectID = "341"; */
+"341.ibShadowedToolTip" = "Allows you to scale the resulting movie size.   ScreenFlow uses an extremely high quality scaling algorithm to create the highest quality scaled output.";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "The preset to use for the export.  You can modify the preset by pressing the 'Customize...' button."; ObjectID = "344"; */
+"344.ibShadowedToolTip" = "The preset to use for the export.  You can modify the preset by pressing the 'Customize...' button.";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "346"; */
+"346.title" = "Preset:";
+
+/* Class = "NSMenuItem"; title = "<do not localize>"; ObjectID = "349"; */
+"349.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; title = "Scale by"; ObjectID = "353"; */
+"353.title" = "Scale by";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityHelp = "custom scale"; ObjectID = "354"; */
+"354.ibExternalAccessibilityHelp" = "custom scale";
+
+/* Class = "NSButtonCell"; title = "Scale to custom size"; ObjectID = "354"; */
+"354.title" = "Scale to custom size";
+
+/* Class = "NSTextFieldCell"; title = "to %{value1}@"; ObjectID = "355"; */
+"355.title" = "to %{value1}@";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Will insert black around the edges of the output to ensure that the content maintains its aspect ratio.  This is important if the width/height you have entered is not the same ratio as the canvas width/height."; ObjectID = "356"; */
+"356.ibShadowedToolTip" = "Will insert black around the edges of the output to ensure that the content maintains its aspect ratio.  This is important if the width/height you have entered is not the same ratio as the canvas width/height.";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "361"; */
+"361.title" = "Width:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "362"; */
+"362.title" = "Height:";
+
+/* Class = "NSButtonCell"; title = "Letterbox Content"; ObjectID = "365"; */
+"365.title" = "Letterbox Content";
+
+/* Class = "NSButtonCell"; title = "Use Motion Blur"; ObjectID = "366"; */
+"366.title" = "Use Motion Blur";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "367"; */
+"367.title" = "Dimensions:";
+
+/* Class = "NSTextFieldCell"; title = "H.264 multi-pass video encoding at 200 k/bit per second.  AAC, 44100 (not localized)"; ObjectID = "368"; */
+"368.title" = "H.264 multi-pass video encoding at 200 k/bit per second.  AAC, 44100 (not localized)";
+
+/* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "369"; */
+"369.title" = "Customize...";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "370"; */
+"370.title" = "Options:";
+
+/* Class = "NSComboBoxCell"; title = "100%"; ObjectID = "371"; */
+"371.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "(Unsupported on this GPU)"; ObjectID = "372"; */
+"372.title" = "(Unsupported on this GPU)";
+
+/* Class = "NSButtonCell"; title = "Add Chapter Track from Markers"; ObjectID = "373"; */
+"373.title" = "Add Chapter Track from Markers";
+
+/* Class = "NSButtonCell"; title = "Manage..."; ObjectID = "375"; */
+"375.title" = "Manage...";
+
+/* Class = "NSButtonCell"; title = "DEBUG"; ObjectID = "376"; */
+"376.title" = "DEBUG";
+
+/* Class = "NSButtonCell"; title = "Add Captions Track"; ObjectID = "389"; */
+"389.title" = "Add Captions Track";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "to %{value1}@"; ObjectID = "452"; */
+"452.ibShadowedDisplayPattern" = "to %{value1}@";
+
+/* Class = "NSButtonCell"; title = "Save copy to disk"; ObjectID = "2Od-gf-WPC"; */
+"2Od-gf-WPC.title" = "Save copy to disk";
+
+/* Class = "NSButtonCell"; title = "Location..."; ObjectID = "sVS-vL-Cuq"; */
+"sVS-vL-Cuq.title" = "Location...";
+
+/* Class = "NSTextFieldCell"; title = "Media File:"; ObjectID = "y4l-ml-IFN"; */
+"y4l-ml-IFN.title" = "Media File:";

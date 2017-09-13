@@ -1,0 +1,105 @@
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time."; ObjectID = "4"; */
+"4.ibShadowedToolTip" = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time."; ObjectID = "5"; */
+"5.ibShadowedToolTip" = "The Volume of the selected clip(s).  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to reduce the volume for a period of time.";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "10"; */
+"10.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Volume:"; ObjectID = "12"; */
+"12.title" = "Volume:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, the audio output of the selected clip(s) will have an audio effect applied.  Only accessible if the selected clip(s) have an audio track."; ObjectID = "49"; */
+"49.ibShadowedToolTip" = "If checked, the audio output of the selected clip(s) will have an audio effect applied.  Only accessible if the selected clip(s) have an audio track.";
+
+/* Class = "NSButtonCell"; title = "Effect:"; ObjectID = "50"; */
+"50.title" = "Effect:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the audio effect."; ObjectID = "51"; */
+"51.ibShadowedToolTip" = "Choose the audio effect.";
+
+/* Class = "NSMenuItem"; title = "<DONTLOCALIZE>"; ObjectID = "54"; */
+"54.title" = "<DONTLOCALIZE>";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "57"; */
+"57.ibShadowedToolTip" = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled.";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "58"; */
+"58.ibShadowedToolTip" = "The amount of the audio effect applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled.";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "60"; */
+"60.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "Amount:"; ObjectID = "63"; */
+"63.title" = "Amount:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Ducking will cause the volume of other active audio clips in the timeline to reduce when sound is detected in the selected clip."; ObjectID = "107"; */
+"107.ibShadowedToolTip" = "Ducking will cause the volume of other active audio clips in the timeline to reduce when sound is detected in the selected clip.";
+
+/* Class = "NSButtonCell"; title = "Ducking:"; ObjectID = "108"; */
+"108.title" = "Ducking:";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The percentage by which other active clips with audio will have their volume reduced by."; ObjectID = "109"; */
+"109.ibShadowedToolTip" = "The percentage by which other active clips with audio will have their volume reduced by.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The percentage by which other active clips with audio will have their volume reduced by."; ObjectID = "113"; */
+"113.ibShadowedToolTip" = "The percentage by which other active clips with audio will have their volume reduced by.";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "114"; */
+"114.title" = "100";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "135"; */
+"135.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSButtonCell"; title = "Round Rect Button"; ObjectID = "137"; */
+"137.title" = "Round Rect Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Normalize and smooth out the volume in the clip, producing a clip with more uniform volume."; ObjectID = "141"; */
+"141.ibShadowedToolTip" = "Normalize and smooth out the volume in the clip, producing a clip with more uniform volume.";
+
+/* Class = "NSButtonCell"; title = "Smooth Volume Levels"; ObjectID = "142"; */
+"142.title" = "Smooth Volume Levels";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggles background noise removal on the clip."; ObjectID = "152"; */
+"152.ibShadowedToolTip" = "Toggles background noise removal on the clip.";
+
+/* Class = "NSButtonCell"; title = "Remove Background Noise"; ObjectID = "153"; */
+"153.title" = "Remove Background Noise";
+
+/* Class = "NSTextFieldCell"; title = "Processing:"; ObjectID = "157"; */
+"157.title" = "Processing:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "164"; */
+"164.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "165"; */
+"165.ibShadowedToolTip" = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled."; ObjectID = "167"; */
+"167.ibShadowedToolTip" = "The amount of noise removal applied to the selected clip(s).  Only accessible if the selected clip(s) have an audio track and an effect enabled.";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "168"; */
+"168.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "Amount:"; ObjectID = "185"; */
+"185.title" = "Amount:";
+
+/* Class = "NSTextFieldCell"; title = "Filter:"; ObjectID = "188"; */
+"188.title" = "Filter:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "189"; */
+"189.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Audio Mix"; ObjectID = "MDl-Aw-g1I"; */
+"MDl-Aw-g1I.title" = "Audio Mix";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, the audio output of the selected clip(s) is muted.  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to mute the volume for part of the clip."; ObjectID = "PvL-lm-WDM"; */
+"PvL-lm-WDM.ibShadowedToolTip" = "If checked, the audio output of the selected clip(s) is muted.  Only accessible if the selected clip(s) have an audio track.  You can use an Audio Action to mute the volume for part of the clip.";
+
+/* Class = "NSButtonCell"; title = "Mute Audio"; ObjectID = "hc2-7j-Enm"; */
+"hc2-7j-Enm.title" = "Mute Audio";
+
+/* Class = "NSTextFieldCell"; title = "Mix Output:"; ObjectID = "rdM-Uj-IAo"; */
+"rdM-Uj-IAo.title" = "Mix Output:";
